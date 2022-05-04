@@ -1,0 +1,26 @@
+{
+    "name": "lovely-purple-theme",
+    "displayName": "Lovely Purple Theme",
+    "publisher": "MahdiBehkar",
+    "description": "A Light Lovely Purple Theme for VScode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+    "Themes"
+    ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Behkar/lovely_purple_theme"
+  },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light Lovely Purple Theme",
+                "uiTheme": "vs",
+                "path": "./themes/love-purple-color-theme.json"
+            }
+        ]
+    }
+}
