@@ -3,10 +3,11 @@
     "displayName": "Lovely Purple Theme",
     "publisher": "MahdiBehkar",
     "description": "A Light Lovely Purple Theme for VScode",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^1.13.0"
     },
+    "icon": "images/lovely_purple_theme_icon.png",
     "categories": [
     "Themes"
     ],
