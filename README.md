@@ -1,5 +1,7 @@
 # A lovely purple theme for [Visual Studio Code](http://code.visualstudio.com)
 
+<p style="background-color:Tomato;">Note: This repository is no longer supported from version 0.04 onwards, and refer to this 
+<a href="https://codeberg.org/behkar/lovely_purple_theme.git">link</a> to get the official repository.</p> 
 <img alt="icon" src="https://raw.githubusercontent.com/Behkar/lovely_purple_theme/master/images/lovely_purple_theme_icon.png" width="150px" height="150">
 
 
